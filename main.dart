@@ -1,4 +1,6 @@
 //set the internet permission in the android manifest.xml if the code does not work
+//you need the following packages
+//http
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
